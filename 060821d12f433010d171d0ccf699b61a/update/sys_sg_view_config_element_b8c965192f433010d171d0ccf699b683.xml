@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>opened_by-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>jatinj</sys_created_by>
+        <sys_created_on>2021-10-06 07:34:45</sys_created_on>
+        <sys_id>b8c965192f433010d171d0ccf699b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by-FieldValue</sys_name>
+        <sys_package display_value="For Mobile" source="x_308208_for_mobil">060821d12f433010d171d0ccf699b61a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="For Mobile">060821d12f433010d171d0ccf699b61a</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_b8c965192f433010d171d0ccf699b683</sys_update_name>
+        <sys_updated_by>jatinj</sys_updated_by>
+        <sys_updated_on>2021-10-06 07:34:45</sys_updated_on>
+        <view_config display_value="Mobile Detail Detail Screen View Config">ecc965192f433010d171d0ccf699b669</view_config>
+        <view_template_slot display_value="text_07">e87845b041275010f877183fc9b8be13</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

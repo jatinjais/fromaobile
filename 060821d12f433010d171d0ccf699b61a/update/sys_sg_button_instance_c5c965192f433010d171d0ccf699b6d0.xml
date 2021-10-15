@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Mobile Detail)">3cc965192f433010d171d0ccf699b6b0</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Mobile Detail)</name>
+        <order/>
+        <parent>fcc965192f433010d171d0ccf699b68b</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>jatinj</sys_created_by>
+        <sys_created_on>2021-10-06 07:34:46</sys_created_on>
+        <sys_id>c5c965192f433010d171d0ccf699b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Mobile Detail)</sys_name>
+        <sys_package display_value="For Mobile" source="x_308208_for_mobil">060821d12f433010d171d0ccf699b61a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="For Mobile">060821d12f433010d171d0ccf699b61a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c5c965192f433010d171d0ccf699b6d0</sys_update_name>
+        <sys_updated_by>jatinj</sys_updated_by>
+        <sys_updated_on>2021-10-06 07:34:46</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c5c965192f433010d171d0ccf699b6d0"/>
+</record_update>
